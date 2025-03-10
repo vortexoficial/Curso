@@ -5360,6 +5360,10 @@ html {
 .image-part img {
   animation: float 3s ease-in-out infinite;
 }
+
+.image-par img {
+  border-radius: 15px; /* Ajuste o valor conforme necessário para o arredondamento desejado */
+}
 .lab-btn {
   position: relative;
   display: inline-block;
